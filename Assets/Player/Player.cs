@@ -13,7 +13,7 @@ public class Player : MonoBehaviour {
 	
 	void Update () {
 
-        Debug.Log("H: " + CrossPlatformInputManager.GetAxis("Horizontal"));
-        Debug.Log("V: " + CrossPlatformInputManager.GetAxis("Vertical"));
+        //Debug.Log("H: " + CrossPlatformInputManager.GetAxis("Horizontal"));
+       // Debug.Log("V: " + CrossPlatformInputManager.GetAxis("Vertical"));
     }
 }
